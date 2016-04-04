@@ -1,1 +1,1 @@
-console.log('1');module.exports={}
+console.log('2');module.exports={}
